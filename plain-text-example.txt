@@ -33,3 +33,9 @@ Let's make a game! It's gonna be fun!
 nice file you got here. be a shame if someone...pushed a change (•_•)>⌐■-■ (⌐■_■)
 
 test commit
+
+"if this commits, please let me know"
+"if this won't push, then I'll say doh"
+"if this commits, I want to know"
+"if this won't push, just say so!"
+
